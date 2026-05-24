@@ -1,19 +1,19 @@
-## Hi, I'm vaibhav 👋    
+# Hi, I'm Vaibhav 👋
 
-##About me
-Aspiring Software Developer
-Interested in AI, Web Development, and Automation
-Currently learning Python, Git, and Full-stack development
+## About Me
+- Aspiring Software Developer
+- Interested in AI, Web Development, and Automation
+- Currently learning Python, Git, and Full-Stack Development
 
-##Skills
-Python(beginner)
-HTML/CSS
-JavaScript
-Git & GitHub
+## Skills
+- Python (Beginner)
+- HTML/CSS
+- JavaScript
+- Git & GitHub
 
-##Projects
-Coming soon
+## Projects
+Coming soon 🚀
 
-##Connect with me 
-LinkedIn: https://www.linkedin.com/in/vaibhavbhai-rohit-b43768405
-Email: rohitvaibhav429@gmail.com
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/vaibhavbai-rohit-b43768405
+- Email: rohitvaibhav429@gmail.com
