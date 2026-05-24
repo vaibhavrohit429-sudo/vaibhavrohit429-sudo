@@ -1,4 +1,4 @@
-# Hi, I'm Vaibhav 👋
+# Vaibhav Rohit
 
 ## About Me
 - Aspiring Software Developer
