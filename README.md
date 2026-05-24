@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm vaibhav 👋    
 
-<!--
-**vaibhavrohit429-sudo/vaibhavrohit429-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##About me
+Aspiring Software Developer
+Interested in AI, Web Development, and Automation
+Currently learning Python, Git, and Full-stack development
 
-Here are some ideas to get you started:
+##Skills
+Python(beginner)
+HTML/CSS
+JavaScript
+Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Projects
+Coming soon
+
+##Connect with me 
+LinkedIn: https://www.linkedin.com/in/vaibhavbhai-rohit-b43768405
+Email: rohitvaibhav429@gmail.com
